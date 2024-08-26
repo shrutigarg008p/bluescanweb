@@ -1,0 +1,108 @@
+/* CSS Document */
+
+.profile-main { font-family:Arial, Helvetica, sans-serif; background:#f6f6f6; font-size:16px; color:#2c2c2c; background:#fff;}
+.profile-header{ background:#003d7d; padding:0 0;}
+.profile-content{ width:800px; margin:auto;}
+.profile-main img { max-width:100%;}
+.profile-toogle {
+    width: 60px;  float:left;
+}
+.profile-heading { width:720px; color:#fff; font-size:24px; text-align:center; float:left; padding:20px 0;}
+.setting-menu { float:right; width:20px;}
+.clr { clear:both;}
+.sub-head-right .star-ratting { background-image:url(images/star-pic.jpg); width:80px; text-align:center; margin:20px;}
+.sub-head-left { float:left; width:650px;}
+.sub-head-right { float:right; width:150px;}
+.sub-head-left h2 {color: #2c2c2c; font-size: 45px; font-weight: normal; margin: 10px 0 0;}
+.sub-head-left p { color:#4c4c4c; margin:7px 0;}
+.sub-head-left p span { color:#000;}
+.star-ratting > span {
+    color: #666666;
+    font-size: 13px;
+    font-weight: bold;
+}
+.profile-content table.rating-table { width:100%; background:#fff; font-weight:bold;}
+.profile-content table.rating-table td { padding:5px 10px;}
+.sub-header { border-bottom:#bfbfbf thin solid;}
+table.identy td { padding:5px;}
+.profile-content table { width:100%;}
+.summary-heading { background:#222222;}
+.summary-heading td {color: #ffffff; font-size: 18px; padding:10px;}
+.profile-content table.summary td { padding:10px;}
+.profile-content table.summary tbody tr { background:#f0f0f0;}
+.profile-content table.summary tbody tr:nth-child(2n) { background:#fff;}
+table.reviews td { padding:5px;}
+table.reviews td img { float:left; margin-right:10px;}
+table.reviews td p { margin:0; padding:0; font-size:28px; color:#707070;}
+table.reviews td a { text-decoration:none; padding:5px 0; display:inline-block;}
+.profile-footer { background:#003d7d; padding:10px 0; text-align:center; font-size:30px; color:#fff; margin-top:20px;}
+table.rating-table img.profile-persion { border:#dcdcdc 2px solid;}
+.profile-toogle a {
+  display: block;
+  width: 28px;
+  height: 30px;
+  margin: 30px auto 10px;
+}
+
+.profile-toogle a span:after,
+.profile-toogle a span:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: -9px;
+}
+.profile-toogle a span:after{
+  top: 9px;
+}
+.profile-toogle a span {
+  position: relative;
+  display: block;
+}
+
+.profile-toogle a span,
+.profile-toogle a span:after,
+.profile-toogle a span:before {
+  width: 100%;
+  height: 5px;
+  background-color: #fff;
+  transition: all 0.3s;
+  backface-visibility: hidden;
+  border-radius: 2px;
+}
+
+
+.setting-menu a {
+  display: block;
+  width: 28px;
+  height: 30px;
+  margin: 30px auto 10px;
+}
+
+.setting-menu a span:after,
+.setting-menu a span:before {
+    content: "";
+    left: -1px;
+    position: absolute;
+    top: -22px;
+}
+.setting-menu a span:after{
+  top: 9px;
+}
+.setting-menu a span {
+  position: relative;
+  display: block;
+}
+
+.setting-menu a span,
+.setting-menu a span:after,
+.setting-menu a span:before {
+    backface-visibility: hidden;
+    border: thin solid #ffffff;
+    border-radius: 2px;
+    height: 7px;
+    margin-top: 5px;
+    transition: all 0.3s ease 0s;
+    width: 7px;
+}
+
+.profile-footer > a { padding:5px; display:inline-block;}

@@ -1,0 +1,37 @@
+.persion-profile-box { max-width:430px; margin:auto;font-family: 'Open Sans', sans-serif;}
+.persion-profile-box .left { width:290px; float:left; text-align:center; border-right:#194f90 70px solid;}
+.prsn-pic { position:relative; width:241px; margin:auto;}
+.prsn-pic img { max-width:100%; width:130px;}
+.prsn-pic span {
+    background: #de1d26;
+    border-radius: 38px;
+    bottom: -8px;
+    color: #ffffff;
+    display: block;
+    font-size: 15px;
+    height: 28px;
+    padding: 7px 0 0;
+    position: absolute;
+    right: 41px;
+    text-align: center;
+    text-transform: uppercase;
+    width: 37px;
+}
+.persion-profile-box .left h2 {
+    color: #1e407b;
+    font-size: 20px;
+    text-transform: uppercase; margin-bottom:0; margin-top:10px;
+}
+.prsn-details { position:relative;}
+.prsn-details img {
+      position: absolute;
+    right: -40px;
+    top: 0;
+    width: 70px !important; height:auto !important;
+}
+.prsn-details span { text-align:right; font-size:12px; display:block; padding-right:35px;}
+.qr-code { border-top:#323032 thin solid; padding-top:20px; margin:20px auto 20px; max-width:330px;}
+.prsn-logo { margin-bottom:10px; width:180px;}
+.qr-code > img {
+    width: 150px !important; height:auto !important;
+}

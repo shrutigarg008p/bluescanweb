@@ -1,0 +1,31 @@
+http://www.bhaskar.com/news-rlt/GAD-LAT-meizu-launches-m2-with-13-mp-camera-and-5-inch-display-5136736-PHO.html?seq=2
+http://www.bhaskar.com/news-rlt/GAD-LAT-meizu-launches-m2-with-13-mp-camera-and-5-inch-display-5136736-PHO.html?seq=1
+6999/-
+
+http://www.bhaskar.com/news-hf/GAD-SPE-top-10-freelancing-websites-in-india-5176078-PHO.html?seq=2
+
+meizu m2
+
+(Qa Comment - Reopen)
+
+
+abhishek.shukla@6degreesit.com
+tatapower
+
+http://www.snapdeal.com/product/kross-maximux-senior-6-speed/624651494904#bcrumbLabelId:2371
+
+Our "Privacy Policy" page is coming soon.
+
+Add/ Edit employee Financial/Banking Detail page - Th ere is no required field. Is there ?
+Add/Edit Employee > Profile image - There is no validation message for file choose, right now we are able to select Doc/csv file also.
+On Clicking Employee bar code and site bar code
+
+	1. On Clicking Employee bar code and site bar code:
+	2. Column name should be in one line. i.e. Local Address. 
+	3. Column name should be in BOLD 
+	4. Comma "," is displaying if we did not enter any value in permanent address field. PFA
+	5. Left side text should be left align. Row is also not align properly. PFA
+
+Color of Difference is not converted according to threshold values . 
+Description:  
+In company (6Degrees IT Security Services)  I use Delta start time is 3 and Delta end limit as 10 than create a new site (Agarwal Public School) that is about 6 km far from my current location and scan it. Difference is still displaying in red color, it should be orange. 

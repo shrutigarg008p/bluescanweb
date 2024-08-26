@@ -1,0 +1,18 @@
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined variable: totalkms</p>
+<p>Filename: controllers/report.php</p>
+<p>Line Number: 207</p>
+
+</div>Field Officer,Date,Time,Site Name,Survey Response,Difference,Distance
+"abha Fo","2015-10-26","03:57:00","site 6","2/2","2231.36","2.8",
+"abha Fo","2015-10-26","02:57:00","site 5","2/2","5707.63","5.9",
+"abha Fo","2015-10-26","02:51:00","site 4","2/2","1149.46","978",
+"abha Fo","2015-10-26","02:50:00","site 3","2/2","665780","0.001",
+"abha Fo","2015-10-26","02:45:00","site 1","2/2","664234","885",
+"abha Fo","2015-10-26","02:45:00","site 2","4/2","663081","0.001",
+
+"Total",,,,,,"1871.702"
