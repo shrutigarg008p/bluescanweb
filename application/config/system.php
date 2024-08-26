@@ -134,7 +134,7 @@ $config['gMapDirectionMaxKmsUrl'] = 'https://maps.googleapis.com/maps/api/direct
 $config['gMapDrivingDirectionUrl'] = 'https://www.google.co.in/maps/dir/';
 
 $config['gMapDirectionMatrixUrl'] = 'https://maps.googleapis.com/maps/api/distancematrix/';
-$config['gMapDirectionMatrixKey'] = 'AIzaSyAFHPcmZPIgTh_fgfthIRi1j0x4YAOVzs4';
+$config['gMapDirectionMatrixKey'] = '';
 $config['gMapMode'] = 'driving';
 $config['units']    = 'metric';
 $config['output']   = 'json';
